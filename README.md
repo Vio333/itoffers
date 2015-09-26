@@ -1,6 +1,6 @@
 <h2>itOffers-中文文档</h2>
 
-http://itOffers.com
+http://itOffers.cn
 
 <h3>itOffers 能帮助你什么？</h3>
 
